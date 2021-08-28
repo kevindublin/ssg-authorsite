@@ -1,0 +1,9 @@
+Title: UCSD's New Writing Series: Lenelle Moïse and Corrine Goria
+Date: 2015-04-11 06:08
+Author: kevin
+Slug: ucsds-new-writing-series-lenelle-moise-and-corrine-goria
+Status: published
+
+Lenelle Moïse is a traveling poet, playwright, musician and the author of Haiti Glass (City Lights/Sister Spit). She is a Next Voices Fellow at New Repertory Theatre and a Huntington Theatre Company Playwriting Fellow. Her two-act comedy, Merit, won the 2012 Ruby Prize. She also wrote, composed, and co-starred in the critically acclaimed Off-Broadway drama Expatriate. Her other plays includeThe Many Faces of Nia, Matermorphosis, Cornered in the Darkand K.I.S.S.I.N.G. (commissioned by the Clark University Department of Theatre). Moïse was the fifth Poet Laureate of Northampton, Massachusetts. Her writing has been featured in several magazines and anthologies, including Word Warriors: 35 Women Leaders in the Spoken Word Revolution. She has received awards, residencies and/or commissions from the Gaea Foundation, Southern Rep, Kitchen Theatre Company, Hedgebrook, Astraea, Northwestern University, UT Austin, and the Black Women Playwrights’ Group. For more information, visit http://www.lenellemoise.com
+
+Corinne Goria is a writer and lawyer. Her fiction has ​appeared in The Silent History,​ ​AWP Conference, &Now Festival, The San Diego Writers Anthology, and other publications​. She is Assistant Editor of Underground America: Narratives of Undocumented Lives (McSweeney’s 2008), a collection of oral histories from undocumented immigrants.​ Her book Invisible Hands: Voices from the Global Economy, was published in 2014 and was described by Kirkus Reviews as a “p​owerful and revealing testimony to the injustices of manual labor, infused with inspiration for global change." Invisible Hands has been featured in ​The Huffington Post, Mother Jones, Truthout, Yes Magazine, and McSweeney’s and is currently being taught in colleges and universities throughout the U.S.

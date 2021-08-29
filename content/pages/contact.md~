@@ -3,10 +3,15 @@ Slug: contact
 Summary: Contact the writer of poetry, prose, scripts, and code.
 Lang: en
 
-<form accept-charset="UTF-8" action="https://getform.io/f/7a696993-b299-4faf-9361-2bed657083af" method="POST">
-  <input type="email" name="email" placeholder="Your Email" />
-  <input type="text" name="name" placeholder="Your Name" />
-  <textarea type="text" name="message" placeholder="Your Message" 		rows="10" cols="52"></textarea>
-  <br/>
-  <button type="submit">Send</button>
+Feel free to send along any messages or inquiries directly to my inbox.
+
+<form accept-charset="UTF-8" action="https://api.staticforms.xyz/submit" method="POST">
+  <input type="hidden" name="accessKey" value="b2f79233-b628-429b-bdc0-eab9da343443">
+  <input type="text" name="name" class="input is-medium" placeholder="Your Name" style="margin-top:10px"/>
+  <input type="email" name="email" class="input is-medium" placeholder="Your Email" style="margin-top:10px"/>
+  <input type="hidden" name="replyTo" value="@">
+  <textarea rows="10" name="message" class="textarea is-medium" placeholder="Your Message" style="margin-top:10px"></textarea>
+  <input type="hidden" name="redirectTo" value="http://getform.io/thank-you">
+  <input type="text" name="honeypot" style="display: none;">
+  <button type="submit" class="button is-medium" style="margin-top:10px">Send</button>
 </form>

@@ -2,6 +2,7 @@ Title: About
 Slug: about
 Summary: Kevin Dublin biography, press kit, and CV.
 Lang: en
+save_as: index.html
 
 ## Bio
 
@@ -9,12 +10,29 @@ Lang: en
 
 ***
 
+## Press
+
+
+["One Happy Story"](https://www.sfchronicle.com/bayarea/heatherknight/article/One-happy-story-S-F-poet-spins-magic-with-15676756.php) in *San Francisco Chronicle*
+
+["A Very San Francisco Engagement with poet Kevin Dublin"](https://podcasts.google.com/feed/aHR0cDovL3RoZWJpZ2V2ZW50LnNmY2hyb25pY2xlLmxpYnN5bnByby5jb20vcnNz/episode/M2VlMTk0ZjgtMTgwYy0xMWViLWE1MTQtZmYyYWNjMjdjNzg0) on *Total SF Podcast with Peter Hartlaub & Heather Knight*
+
+[“How to Make it as a Writer in San Francisco”](https://www.sfweekly.com/topstories/nanowrimo-writer-san-francisco/) in *SF Weekly*
+
+[“How to Fall in Love in San Diego”](https://spkofmarvels.wordpress.com/2017/11/03/kevin-dublin/) in *Speaking of Marvels*
+
+***
+
 ## CV
 
-Download: []()
+A *mostly* comprehensive & relevant writing and teaching curriculum vitae.
+
+<a class="button is-medium" href="../pdfs/Dublin_CV.pdf">Download CV</a>
 
 *** 
 
-## Press Kit
+## Press Kits
 
-Download: []()
+General purpose press kit for media engagements, interviews and information around publications, biography, sample poems, etc.
+
+<a class="button is-medium" href="../pdfs/2021_Press_Kit.pdf">Download Press Kit</a>

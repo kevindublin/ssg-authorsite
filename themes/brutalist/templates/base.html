@@ -44,7 +44,9 @@
         <script src="{{ SITEURL }}/theme/js/moment.js"></script>
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/main.css" />
-        
+        <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    	<script src="https://kit.fontawesome.com/15181efa86.js" crossorigin="anonymous"></script>
+    	<link rel="stylesheet" href="https://unpkg.com/bulma@0.9.0/css/bulma.min.css" />
 		<script>
 			
                 /*! grunt-grunticon Stylesheet Loader - v2.1.2 | https://github.com/filamentgroup/grunticon | (c) 2015 Scott Jehl, Filament Group, Inc. | MIT license. */
@@ -76,18 +78,22 @@
     <div role="banner" id="masthead">
         <header>
             {% if GRAVATAR %}
-            <a href="/"><img src="{{ GRAVATAR }}" alt="Matt McManus Avatar" class="gravatar"></a>
+            <a href="/"><img src="{{ GRAVATAR }}" alt="Avatar" class="gravatar"></a>
             {% elif LOGO %}
-            <a href="/"><img src="{{ SITEURL }}/images/{{ LOGO }}" alt="McManus Logo"></a>
+            <a href="/"><img src="{{ SITEURL }}/images/{{ LOGO }}" alt="Logo"></a>
             {% else %}
-            <h1><a href="/">{{ FIRST_NAME }}'s Blog</a></h1>
+            <h1><a href="/">{{ FIRST_NAME }}'s Site</a></h1>
             {% endif %}
-            <a href="#menu" id="menu-link">more stuff</a>
+            <a href="#menu" id="menu-link"><span class="navbar-burger burger" data-target="navbarMenu">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span></a>
             <nav id="menu">
                 <ul>
                     {% if DISPLAY_PAGES_ON_MENU %}
                       {% for p in pages %}
-                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.slug }}</a></li>
+                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.slug | replace('-', ' ')}}</a></li>
                       {% endfor %}
                     {% endif %}
                     {% for title, link in MENUITEMS %}

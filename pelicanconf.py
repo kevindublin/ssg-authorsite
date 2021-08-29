@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 THEME = "themes/brutalist"
 # Plugins Settings
 PLUGIN_PATHS = ['plugins/']
-PLUGINS = ['sitemap']
+PLUGINS = ['sitemap', 'share_post']
 
 SITEMAP = {
     'format': 'xml',
@@ -47,6 +47,9 @@ SITEMAP = {
         'pages': 'monthly'
     }
 }
+
+# Static Paths
+STATIC_PATHS = ['images', 'pdfs']
 
 # Theme Settings
 THEME = 'themes/brutalist'
@@ -69,7 +72,8 @@ TWITTER_USERNAME = '@parteverything'
 ATTRIBUTION = False
 ## Add a link to the tags page to the menu
 ## Other links can be added following the same tuple pattern 
-MENUITEMS = [('archived blog', '/categories'),
+MENUITEMS = [
+			('archived blog', '/categories.html'),
 			]
 ## Social icons for footer
 ## Set these to whatever your unique public URL is for that platform
@@ -87,4 +91,4 @@ GRAVATAR = 'https://s.gravatar.com/avatar/ac0a0049d7c9a1c351d0ff85c265d441?s=80'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False

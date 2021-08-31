@@ -355,8 +355,9 @@ div#masthead nav#menu {
   }
 }
 div#masthead nav#menu#menu.active {
-  max-height: 15em;
+  max-height: 100%;
   padding: 2em 0;
+  overflow: visible;
 }
 div#masthead nav#menu ul {
   border-top: 1px solid #808080;
@@ -505,6 +506,13 @@ footer p {
 .article article .content p {
   padding-bottom: 1.5em;
 }
+
+.article article .content h1 {
+  font-size: 1.6em;
+  padding-bottom: 0.75em;
+  padding-top: 1.5em;
+  font-weight: 900;
+}
 .article article .content h2 {
   font-size: 1.4em;
   padding-bottom: 0.75em;
@@ -645,14 +653,15 @@ footer p {
 /* TAGS/CATEGORIES */
 /* SOCIAL ICONS */
 .icon {
-  width: 2em;
-  height: 2em;
+  width: 4em;
+  height: 4em;
   display: inline-block;
-  padding: 0 0.5em;
+  padding: 1 1em;
+  margin: 2em;
 }
 
 .icons {
-  margin: 2em auto;
+  margin: 4em 4em;
 }
 
 /* DISQUS COMMENTS */

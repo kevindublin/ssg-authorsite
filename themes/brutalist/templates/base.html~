@@ -19,16 +19,16 @@
         <link href="{{ FEED_DOMAIN }}/{% if FEED_RSS_URL %}{{ FEED_RSS_URL }}{% else %}{{ FEED_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
         {% endif %}
         {% if CATEGORY_FEED_ATOM and category %}
-        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_ATOM_URL %}{{ CATEGORY_FEED_ATOM_URL|format(category.slug) }}{% else %}{{ CATEGORY_FEED_ATOM|format(category.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_ATOM_URL %}{{ CATEGORY_FEED_ATOM_URL|format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_ATOM|format(slug=category.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
         {% endif %}
         {% if CATEGORY_FEED_RSS and category %}
-        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_RSS_URL %}{{ CATEGORY_FEED_RSS_URL|format(category.slug) }}{% else %}{{ CATEGORY_FEED_RSS|format(category.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_RSS_URL %}{{ CATEGORY_FEED_RSS_URL|format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_RSS|format(slug=category.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
         {% endif %}
         {% if TAG_FEED_ATOM and tag %}
-        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_ATOM_URL %}{{ TAG_FEED_ATOM_URL|format(tag.slug) }}{% else %}{{ TAG_FEED_ATOM|format(tag.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_ATOM_URL %}{{ TAG_FEED_ATOM_URL|format(slug=tag.slug) }}{% else %}{{ TAG_FEED_ATOM|format(slug=tag.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
         {% endif %}
         {% if TAG_FEED_RSS and tag %}
-        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_RSS_URL %}{{ TAG_FEED_RSS_URL|format(tag.slug) }}{% else %}{{ TAG_FEED_RSS|format(tag.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_RSS_URL %}{{ TAG_FEED_RSS_URL|format(slug=tag.slug) }}{% else %}{{ TAG_FEED_RSS|format(slug=tag.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
         {% endif %}
         <!-- twitter card metadata -->
         {% block twittercard %}
@@ -79,13 +79,12 @@
         <header>
             {% if GRAVATAR %}
             <a href="/"><img src="{{ GRAVATAR }}" alt="Avatar" class="gravatar"></a>
-            <div style="background-image: url('https://images.unsplash.com/photo-1528459105426-b9548367069b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=614&q=80');">
             {% elif LOGO %}
             <a href="/"><img src="{{ SITEURL }}/images/{{ LOGO }}" alt="Logo"></a>
             {% else %}
             <h1><a href="/">{{ FIRST_NAME }}'s Site</a></h1>
             {% endif %}
-            <a href="#menu" id="menu-link"><span class="navbar-burger burger" data-target="navbarMenu">
+            <a href="#menu" id="menu-link"><span class="navbar-burger burger" data-target="menu">
                             <span></span>
                             <span></span>
                             <span></span>
@@ -94,11 +93,11 @@
                 <ul>
                     {% if DISPLAY_PAGES_ON_MENU %}
                       {% for p in pages %}
-                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.slug | replace('-', ' ')}}</a></li>
+                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}" class="navbar-item">{{ p.slug | replace('-', ' ')}}</a></li>
                       {% endfor %}
                     {% endif %}
                     {% for title, link in MENUITEMS %}
-                        <li><a href="{{ link }}">{{ title }}</a></li>
+                        <li><a class="navbar-item" href="{{ link }}">{{ title }}</a></li>
                     {% endfor %}
                     {% if DISPLAY_CATEGORIES_ON_MENU %}
                         {% for cat, null in categories %}
@@ -124,13 +123,16 @@
                         {% if GITHUB %}
                         <a href="{{ GITHUB }}" target="_blank"><div class="icon-github icon"></div></a>
                         {% endif %}
-                        {% if STRAVA %}
+                        {% if INSTAGRAM %}
                         <a href="{{ INSTAGRAM }}" target="_blank"><div class="icon-instagram icon"></div></a>
+                        {% endif %}
+                        {% if LINKEDIN %}
+                        <a href="{{ LINKEDIN }}" target="_blank"><div class="icon-linkedin icon"></div></a>
                         {% endif %}
                         {% if STRAVA %}
                         <a href="{{ STRAVA }}" target="_blank"><div class="icon-strava icon"></div></a>
                         {% endif %}
-                        {% if STRAVA %}
+                        {% if TELEGRAM %}
                         <a href="{{ TELEGRAM }}" target="_blank"><div class="icon-telegram icon"></div></a>
                         {% endif %}
                         {% if GOODREADS %}

@@ -29,7 +29,8 @@ SOCIAL = (('Twitter', 'https://twitter.com/parteverything'),
           ('Instagram', 'https://www.instagram.com/kevdublin/'),)
 
 DEFAULT_PAGINATION = 10
-THEME = "themes/brutalist"
+
+
 # Plugins Settings
 PLUGIN_PATHS = ['plugins/']
 PLUGINS = ['sitemap', 'share_post']
@@ -53,36 +54,51 @@ STATIC_PATHS = ['images', 'pdfs']
 
 # Theme Settings
 THEME = 'themes/brutalist'
+
 ## used for OG tags and Twitter Card data on index page
 SITEIMAGE = 'site-cover.jpg'
+
 ## used for OG tags and Twitter Card data of index page
-SITEDESCRIPTION = 'Author site & blog archive for Kevin Dublin'
+SITEDESCRIPTION = 'Author site & blog archive of Attempting to Avoid Vanity for Kevin Dublin'
+
 ## path to favicon
 FAVICON = 'favicon.png'
+
 ## path to logo for nav menu (optional)
 LOGO = 'logo.png'
+
 ## first name for nav menu if logo isn't provided
 FIRST_NAME = 'Kevin'
+
 ## google analytics (fake code commented out)
 GOOGLE_ANALYTICS = 'UA-40659889-1'
+
 ## Twitter username for Twitter Card data
 TWITTER_USERNAME = '@parteverything'
+
+
 ## Toggle display of theme attribution in the footer (scroll down and see)
 ## Attribution is appreciated but totally fine to turn off!
 ATTRIBUTION = False
+
+
 ## Add a link to the tags page to the menu
 ## Other links can be added following the same tuple pattern 
 MENUITEMS = [
 			('archived blog', '/categories.html'),
 			]
+
+
 ## Social icons for footer
-## Set these to whatever your unique public URL is for that platform
-## I've left mine here as a example
+## Set these to whatever your unique public URL is 
+
 TWITTER = 'https://twitter.com/parteverything'
 INSTAGRAM = 'https://www.instagram.com/kevdublin/'
 GITHUB = 'https://github.com/kevindublin'
 FACEBOOK = 'https://www.facebook.com/kevindublin/'
 LINKEDIN = 'https://www.linkedin.com/in/vindublin'
+
+
 ## Disqus Sitename for comments on posts
 ## Commenting mine out for this theme site
 DISQUS_SITENAME = 'kevindublin'

@@ -13,5 +13,7 @@ Feel free to send along any messages or inquiries directly to my inbox.
   <textarea rows="10" name="message" class="textarea is-medium" placeholder="Your Message" style="margin-top:10px"></textarea>
   <input type="hidden" name="redirectTo" value="http://getform.io/thank-you">
   <input type="text" name="honeypot" style="display: none;">
-  <button type="submit" class="button is-medium" style="margin-top:10px">Send</button>
+  <button type="submit" id="submit-form" class="button is-medium g-recaptcha" 
+  		data-callback='onSubmit' data-action='submit' style="margin-top:10px"
+  		data-sitekey="6Le4HUkcAAAAABSiiLOeqgqEBPNPLJgdWm3WKOZl">Send</button>
 </form>

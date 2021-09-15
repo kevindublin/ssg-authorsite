@@ -27,6 +27,7 @@
         <link rel="icon" type="image/png" href="https://kevindublin.com/images/favicon.png">
         <!-- moment.js for date formatting -->
         <script src="https://kevindublin.com/theme/js/moment.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="https://kevindublin.com/theme/css/main.css" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
@@ -140,5 +141,10 @@ FREE</p>
                     <p>© <script>document.write(moment().format('YYYY'));</script> Kevin Dublin</p>
                 </footer>
         </div>
+         <script>
+		   function onSubmit(token) {
+			 document.getElementById("submit-form").submit();
+		   }
+		 </script>
 </body>
 </html>

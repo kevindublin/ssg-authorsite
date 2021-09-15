@@ -27,6 +27,7 @@
         <link rel="icon" type="image/png" href="https://kevindublin.com/images/favicon.png">
         <!-- moment.js for date formatting -->
         <script src="https://kevindublin.com/theme/js/moment.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="https://kevindublin.com/theme/css/main.css" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
@@ -93,37 +94,17 @@
         </header>
       <div class="content">
          <p>Feel free to send along any messages or inquiries directly to my inbox.</p>
-<form accept-charset="UTF-8" action="https://api.staticforms.xyz/submit" method="POST">
-  <input type="hidden" name="accessKey" value="b2f79233-b628-429b-bdc0-eab9da343443">
+<form accept-charset="UTF-8" action="https://formsubmit.co/dd738e127d3f811a93322e589829d372" method="POST">
   <input type="text" name="name" class="input is-medium" placeholder="Your Name" style="margin-top:10px"/>
   <input type="email" name="email" class="input is-medium" placeholder="Your Email" style="margin-top:10px"/>
-  <input type="hidden" name="replyTo" value="@">
   <textarea rows="10" name="message" class="textarea is-medium" placeholder="Your Message" style="margin-top:10px"></textarea>
-  <input type="hidden" name="redirectTo" value="http://getform.io/thank-you">
-  <input type="text" name="url" style="display: none;">
-  <button type="submit" id="submit-form" class="button is-medium g-recaptcha" 
-  		data-callback='onSubmit' data-action='submit' style="margin-top:10px"
-  		data-sitekey="6Le4HUkcAAAAABSiiLOeqgqEBPNPLJgdWm3WKOZl">Send</button>
+  <input type="text" name="_honey" style="display: none;">
+  <button type="submit" id="submit-form" class="button is-medium" 
+          style="margin-top:10px">Send</button>
 </form>
       </div>
       <div class="">
       </div>
-      <div id="disqus_thread"></div>
-        <script>
-          var disqus_config = function () {
-          this.page.url = "https://kevindublin.com/pages/contact.html";  // Replace PAGE_URL with your page's canonical URL variable
-          this.page.identifier = "contact"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-          };
-        </script>
-        <script>
-        (function() {
-              var d = document, s = d.createElement('script');
-              s.src = 'https://kevindublin.disqus.com/embed.js';
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-        })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </article>
   </div>
 <!-- end article -->
@@ -137,5 +118,10 @@
                     <p>© <script>document.write(moment().format('YYYY'));</script> Kevin Dublin</p>
                 </footer>
         </div>
+         <script>
+		   function onSubmit(token) {
+			 document.getElementById("submit-form").submit();
+		   }
+		 </script>
 </body>
 </html>

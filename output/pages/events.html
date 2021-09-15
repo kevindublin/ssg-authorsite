@@ -27,6 +27,7 @@
         <link rel="icon" type="image/png" href="https://kevindublin.com/images/favicon.png">
         <!-- moment.js for date formatting -->
         <script src="https://kevindublin.com/theme/js/moment.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="https://kevindublin.com/theme/css/main.css" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800&display=swap" rel="stylesheet">
@@ -94,7 +95,7 @@
       <div class="content">
          <h2>Upcoming Events</h2>
 <ul>
-<li><strong>SEP 4 @ 5pm</strong> in Pasadena, CA | <a href="https://fb.me/e/EVQUu4wB">Labor Day Special</a> </li>
+<li><strong>September 14 @ 7:30pm</strong> in San Francisco, CA | <a href="https://fb.me/e/1CJr7D1xo">Happy Endings: Fruitful Labors</a></li>
 <li><strong>SEP 21 @ 6pm</strong> in San Francisco, CA | <a href="https://www.greenapplebooks.com/event/9th-ave-paolo-bicchieri">Familial Animals Release</a> </li>
 <li><strong>SEP 25 @ 2pm</strong> in Mountainview, CA | <a href="https://www.basicincomemarch.com/">Basic Income March</a></li>
 </ul>
@@ -102,25 +103,13 @@
 <ul>
 <li><strong>OCT 11 @ 12:30pm</strong> via Zoom | <a href="https://elderwriting.net/dt-oak.html">The Craft of Poetry</a> <em>6 Weeks</em> </li>
 </ul>
+<h2>Recently Passed Events</h2>
+<ul>
+<li><strong>SEP 4 @ 5pm</strong> in Pasadena, CA | <a href="https://youtu.be/2m1fei5xdRo">Labor Day Special</a> </li>
+</ul>
       </div>
       <div class="">
       </div>
-      <div id="disqus_thread"></div>
-        <script>
-          var disqus_config = function () {
-          this.page.url = "https://kevindublin.com/pages/events.html";  // Replace PAGE_URL with your page's canonical URL variable
-          this.page.identifier = "events"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-          };
-        </script>
-        <script>
-        (function() {
-              var d = document, s = d.createElement('script');
-              s.src = 'https://kevindublin.disqus.com/embed.js';
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-        })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </article>
   </div>
 <!-- end article -->
@@ -134,5 +123,10 @@
                     <p>© <script>document.write(moment().format('YYYY'));</script> Kevin Dublin</p>
                 </footer>
         </div>
+         <script>
+		   function onSubmit(token) {
+			 document.getElementById("submit-form").submit();
+		   }
+		 </script>
 </body>
 </html>

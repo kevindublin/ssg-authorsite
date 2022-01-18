@@ -5,7 +5,7 @@ Lang: en
 
 ## Upcoming Events
 
-- **DEC 14 @ 7PM** in San Francisco, CA | [California is Going to Hell Realease](https://www.eventbrite.com/e/the-racket-reading-series-marshmallows-in-hell-w-sydney-vogl-tickets-216296397347)
+- **JAN 28 @ 7PM** in San Francisco, A | [The Living Room Reading Series - Dreams](https://thelivingroomsf.com/)
 
 
 ## Upcoming Workshops
@@ -15,6 +15,7 @@ Lang: en
 
 ## Recently Passed Events
 
+- **DEC 14 @ 7PM** in San Francisco, CA | [California is Going to Hell Realease](https://www.eventbrite.com/e/the-racket-reading-series-marshmallows-in-hell-w-sydney-vogl-tickets-216296397347)
 - **DEC 7 @ 7PM** in San Francisco, CA | [The Racket: Holiday](https://www.instagram.com/p/CXU9xoVLfTZ/)
 - **NOV 2 @ 10:30AM** in San Francisco, CA | [Strategies to Advance Economic Inclusion Panel - Watch on YouTube](https://youtu.be/FmJjzl567V8?t=4704)
 - **OCT 30 @ 7PM** at Martuni's in San Francisco | [October Literary Speakeasy](https://www.facebook.com/LiterarySpeakeasy/)

@@ -81,3 +81,30 @@ I offer teaching, editing, and other services at affordable rates.
   <textarea rows="10" name="message" class="textarea is-medium" placeholder="Additional Information" style="margin-top:10px"></textarea>
   <button type="submit" class="button is-medium" style="margin-top:10px">Send</button>
 </form>
+
+## Testimonials
+
+> “Last year we had Kevin Dublin do a special event for National Poetry Day at my place of work. That experience has stuck with me, in the best of ways! It was a completely new experience and opportunity for creative expression. Kevin also set a tone of comfort and nurtured a safe place for us to share what he had led us to create.”
+
+-Atlassian Team Member
+
+> “I loved everything about the class and so grateful for the experience. It’s been profound for me and a new beginning.”
+
+-Beginning Poetry Student
+
+> “[The workshop] got me writing, was fun, sometimes difficult, a bit challenging. I had never written poetry before.”
+
+-Writing Poetry Student
+
+> “My poetry was fundamentally shaped by the ethos of your rhythm-based class, but I think I was unable to fully appreciate the breadth of what you taught until very recently.”
+
+-Poetry for Page and Stage Student
+
+> “It was such an inspiring experience for me and really opened my eyes to hip-hop’s poetic elements.”
+
+-Hip-Hop Poetry Student
+
+> “Thanks ad infinitum to Kevin Dublin & the Writing Salon. Yesterday’s generative writing workshop was A-1.”
+
+-Generative Writing Workshop Student
+

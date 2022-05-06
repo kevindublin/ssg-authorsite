@@ -12,6 +12,10 @@ Lang: en
 
 ## Press
 
+["Guaranteed Income Artist Impact Stories"](https://ybca.org/sf-gipa-artist-impact-kevin-dublin/) in *YBCA Zine*
+
+["San Francisco tested a $1,000 guaranteed income pilot program. Here's how it went for two artists"](https://www.sfgate.com/sf-culture/article/sf-tests-guaranteed-income-program-16791353.php) in *SF Gate*
+
 ["Advocates for Universal Basic Income Gather in Mountain View"](https://www.ktvu.com/news/advocates-for-universal-basic-income-gather-in-mountain-view) on *KTVU FOX 2*
 
 ["One Happy Story"](https://www.sfchronicle.com/bayarea/heatherknight/article/One-happy-story-S-F-poet-spins-magic-with-15676756.php) in *San Francisco Chronicle*

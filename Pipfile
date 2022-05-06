@@ -13,6 +13,7 @@ invoke = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 pelican-sitemap = "*"
+ghp-import = "*"
 
 [packages.pelican]
 extras = [ "markdown",]

@@ -50,7 +50,8 @@ SITEMAP = {
 }
 
 # Static Paths
-STATIC_PATHS = ['images', 'pdfs']
+STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Theme Settings
 THEME = 'themes/brutalist'

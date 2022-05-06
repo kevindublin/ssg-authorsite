@@ -10,7 +10,7 @@ Payment available via PayPal.
 		<div class="card">
 			<div class="card-image">
 				<figure class="image">
-					<img src="../images/cover_web.png" alt="How to Fall in Love in SD Cover">
+					<a href="https://kevindublin.com/pages/how-to-fall.html"><img src="../images/cover_web.png" alt="How to Fall in Love in SD Cover"></a>
 				</figure>
 			</div>
 			<div class="card-content">

@@ -5,10 +5,9 @@ Lang: en
 
 How to Fall in Love in San Diego (Finishing Line Press, 2017) is a chapbook of 26 love & anti-love poems. The poems are set inside, around, and far outside the bounds of San Diego, CA. They’re a collective attempt to encapsulate the city’s energy as well as the universal, sometimes heart-wrenching, 21st century search for love or something similar. 
 
-You can order a copy of the chapbook from [Finishing Line Press](https://www.finishinglinepress.com/product/how-to-fall-in-love-in-san-diego/), from [Bookshop.org](https://bookshop.org/books/how-to-fall-in-love-in-san-diego/9781635342260), an audiobook version of me reading it on [Amazon](https://www.amazon.com/How-Fall-Love-San-Diego/dp/B07GL53Z9P/), or ask for it to be ordered to any local book store.
+You can order a copy of the chapbook from [Finishing Line Press](https://www.finishinglinepress.com/product/how-to-fall-in-love-in-san-diego/), from [Bookshop.org](https://bookshop.org/books/how-to-fall-in-love-in-san-diego/9781635342260), an audiobook version of me reading it on [Amazon](https://www.amazon.com/How-Fall-Love-San-Diego/dp/B07GL53Z9P/), or ask for it to be ordered to any local book store. [Get a signed copy here.](https://kevindublin.com/pages/shop.html)
 
 ![photo of Book Cover](../images/how-to-fall-cover.png)
-[Get a signed copy](https://kevindublin.com/pages/shop.html)
 
 ## Praise for *How to Fall in Love in San Diego*
 

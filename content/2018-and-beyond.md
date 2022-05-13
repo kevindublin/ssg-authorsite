@@ -7,7 +7,7 @@ Status: published
 
 Going into 2018 and beyond, I feel full of passionate intensity. *[Surely some revelation is at hand](https://www.poetryfoundation.org/poems/43290/the-second-coming).*  The previous year, was full of shifts and  a leaning further into the *Spiritus Mundi*. The concepts for my next few creative endeavors started to develop. Several previous creative projects came into the world. I thought the end of the first month of the new year would be a good time to reflect and look forward.
 
-![How Can You Remain](http://kevindublin.com/wp-content/uploads/2018/02/vlcsnap.png){.aligncenter .wp-image-100649 .size-medium width="300" height="173"}
+![How Can You Remain](http://kevindublin.com/wp-content/uploads/2018/02/vlcsnap-2017-08-26-16h58m03s436-300x173.png){.aligncenter .wp-image-100649 .size-medium width="300" height="173"}
 
 The largest creative culmination of 2017 for me was the publication of my first chapbook, [*How to Fall in Love in San Diego*](http://kevindublin.com/product/fall-in-love-in-san-diego/). I'm so grateful for the to see that selection of poems under the eyes of readers. Working with the editors was a wonderful experience. I got to collaborate on its production and design the cover.They also let me put out the [ebook version](https://www.amazon.com/How-Fall-Love-San-Diego-ebook/dp/B076PG7V6V/) myself.
 

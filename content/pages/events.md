@@ -7,9 +7,9 @@ Lang: en
 
 | Year | Date | Time | Location | Event |
 | ---- | ---- | ----- | --- | --- |
-| 2022 | Saturday **MAY 7** | 2PM | Syzygy in San Francisco | [Art Salon: Process](https://bit.ly/process-salon) |
-| 2022 | Sunday **MAY 8** | 12PM | Downtown BART Plaza in Berkeley | [Outdoor Bay Area Book Festival: Poets on the Plaza](https://www.baybookfest.org/) |
 | 2022 | Friday **MAY 27** | 7PM | Manny's in San Francisco | [The Living Room Reading Series - Mindfulness](https://www.eventbrite.com/e/living-room-reading-series-salon-in-person-tickets-253297588907) |
+| 2022 | Saturday **MAY 28** | 5:30PM | The Damel in Oakland | [Beast Crawl - WO2WA: Standing in Black Rootedness](https://beastcrawl.org/blog/west-oakland-to-west-africa) |
+| 2022 | Tuesday **JUNE 14** | 12:30PM | Jessie Square in San Francisco | [Poetic Tuesdays @ Yerba Buena Garden Festival](https://ybgfestival.org/poetic-tuesdays/) |
 
 
 ## Upcoming Workshops
@@ -24,6 +24,8 @@ Lang: en
 
 | Year | Date | Time | Location | Event |
 | --- | --- | --- | --- | --- |
+| 2022 | Sunday **MAY 8** | 12PM | Downtown BART Plaza in Berkeley | [Outdoor Bay Area Book Festival: Poets on the Plaza](https://www.baybookfest.org/) |
+| 2022 | Saturday **MAY 7** | 2PM | Syzygy in San Francisco | [Art Salon: Process](https://bit.ly/process-salon) |
 | 2022 | Tuesday **MAY 3** | 10AM | Facebook | [Guest on The JoJo Show - Watch](https://www.facebook.com/100042464478026/videos/3225672491020226/) | 
 | 2022 | Tuesday **APR 26** | 4PM | Zoom | [NCLR Poetry by North Carolina Expatriates](https://nclr.ecu.edu/) |
 | 2022 | Friday **APR 22** | 7PM | Manny's in San Francisco | [Host of the The Living Room Reading Series & Salon - Watch](https://www.patreon.com/posts/65676522) |

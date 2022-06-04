@@ -28,10 +28,12 @@ Our Marvel versus DC game has grown a lot. We have balanced and re-balanced it. 
 <p>
 <center>
 
-[![marvel-versus-dc-game](http://kevindublin.com/wp-content/uploads/2018/11/Marvel-versus-DC-Game-at-Gamescape.jpg){.aligncenter width="3264" height="2448"}](https://www.gamescapesf.com/)
+[!marvel-versus-dc-game](http://kevindublin.com/wp-content/uploads/2018/11/Marvel-versus-DC-Game-at-Gamescape.jpg)
+
+[at Gamescape](https://www.gamescapesf.com/)
 
 </center>
-</p>
+</p>marvel-versus-dc-game
 
 ### Download Marvel Versus DC Game Bundle
 

@@ -15,6 +15,7 @@ Lang: en
 - [*Termination Inc*](https://kevindublin.com/pdfs/terminationinc.pdf), a dramedy web series in-progress
 
 ## Video / Multimedia
+- [*Photography Projects*](https://kdublin.com)
 - *The Woman Across the Courtyard*, short film in-progress
 **Logline**: After 6 months of sheltering-in-place, Nadia, a young woman who has been ignored by all of her neighbors, notices a strange woman who looks eerily familiar watching her every move from across the couryard as events become perilous.
 

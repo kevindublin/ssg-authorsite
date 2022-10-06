@@ -19,10 +19,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Photography', 'https://kdublin.com/'),
+         ('Part Everything', 'https://www.python.org/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/parteverything'),
@@ -43,9 +41,9 @@ SITEMAP = {
         'pages': 0.5
     },
     'changefreqs': {
-        'articles': 'monthly',
+        'articles': 'weekly',
         'indexes': 'daily',
-        'pages': 'monthly'
+        'pages': 'weekly'
     }
 }
 

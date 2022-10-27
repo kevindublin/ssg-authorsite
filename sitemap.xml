@@ -5,84 +5,84 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://kevindublin.com/</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/about.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/contact.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/events.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/how-to-fall.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/poetry-therapy.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/projects.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/publications.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/services.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/shop.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/artist-statement.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://kevindublin.com/pages/writing-is-collaborative.html</loc>
-<lastmod>2022-10-14T00:35:14-00:00</lastmod>
+<lastmod>2022-10-27T02:15:05-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -917,6 +917,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://kevindublin.com/35-movies-of-the-decade.html</loc>
 <lastmod>2009-12-31T07:41:00-08:00</lastmod>
 <changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://kevindublin.com/category/archive.html</loc>
+<lastmod>2021-02-28T06:41:00-07:53</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 

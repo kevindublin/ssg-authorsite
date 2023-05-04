@@ -12,9 +12,10 @@ Status: published
 
 These are my MoviePass Reviews for the second trimester of the year. It was supposed to be by the quarter, but *time keeps on slippin’*. I’m currently at 57 films seen out of my \#100MoviesIn2015. Tonight, I’ll see Hitchcock's classic *Psycho*, then *Black Mass* the day after. I still need to see 42 films more films over the next 13 weeks if I want to hit my goal. That’s almost 4 movies a week. Yikes! Luckily, I have MoviePass—hence, these MoviePass Reviews. What is that you ask?
 
-\[caption id="attachment\_100449" align="aligncenter" width="480"\][![moviepass-reviews-2015](http://www.kevindublin.com/wp-content/uploads/2015/09/moviepass-reviews-2015-1024x768.jpg){.wp-image-100449 .size-large width="480" height="360"}](http://www.kevindublin.com/wp-content/uploads/2015/09/moviepass-reviews-2015.jpg) a few of the tickets\[/caption\]
 
-MoviePass is a card that allows you to see unlimited films for \$30/month — ([http://movi.ps/referral](https://www.moviepass.com/referral/email/E5pxASeyUNLGc6XBztskAodEFVXHILi5LFDw9LikeqA%253D/1503631860105)). I love it. As you can tell, I’ve seen loads of movies this year. You can read the first trimester of MoviePass reviews [here](http://www.kevindublin.com/moviepass-review-2015/). I originally started my free two week trial on January 15, 2015. There are other reviews of the service, but I can honestly tell you that it’s the best entertainment decision I’ve made since buying a projector six years ago.
+<center>[![moviepass-reviews-2015](http://www.kevindublin.com/wp-content/uploads/2015/09/moviepass-reviews-2015-1024x768.jpg){.wp-image-100449 .size-large width="480" height="360"}](http://www.kevindublin.com/wp-content/uploads/2015/09/moviepass-reviews-2015.jpg)*a few of the tickets*</center>
+
+MoviePass is a card that allows you to see unlimited films for $30/month — ([http://movi.ps/referral](https://www.moviepass.com/referral/email/E5pxASeyUNLGc6XBztskAodEFVXHILi5LFDw9LikeqA%253D/1503631860105)). I love it. As you can tell, I’ve seen loads of movies this year. You can read the first trimester of MoviePass reviews [here](http://www.kevindublin.com/moviepass-review-2015/). I originally started my free two week trial on January 15, 2015. There are other reviews of the service, but I can honestly tell you that it’s the best entertainment decision I’ve made since buying a projector six years ago.
 
  
 
@@ -30,7 +31,7 @@ A lot of MoviePass reviews complain that it’s advertised as “unlimited movie
 
  
 
-I have a friend. I’m not going to say his name, but he’s on Twitter [\@cjpendergraft](https://twitter.com/cjpendergraft). You should follow him. He signed up for MoviePass in February and canceled it in May after seeing less than 5 movies. He just wasn’t going to the theater. From June until now, he’s seen more than 10 movies. He says he’s going to sign up again in October. He’s a lil fatheroo. Do not sign up for MoviePass if you aren’t going to theaters. A good way to engage is to start a scrapbook of movie tickets or write short MoviePass reviews. Make a habit of it all.
+I have a friend. I’m not going to say his name, but he’s on Twitter [@cjpendergraft](https://twitter.com/cjpendergraft). You should follow him. He signed up for MoviePass in February and canceled it in May after seeing less than 5 movies. He just wasn’t going to the theater. From June until now, he’s seen more than 10 movies. He says he’s going to sign up again in October. He’s a lil fatheroo. Do not sign up for MoviePass if you aren’t going to theaters. A good way to engage is to start a scrapbook of movie tickets or write short MoviePass reviews. Make a habit of it all.
 
  
 
@@ -42,7 +43,7 @@ I have a friend. I’m not going to say his name, but he’s on Twitter [\@cjpen
 
 The only reason this movie doesn’t have a ten is because I think there needs to be some time before something is labeled perfection. This film accomplished everything it set out to. It was a hilarious comedy and the drama was compelling and genuine. Perhaps what really makes this movie so good are its arguments. Malcolm (Shameik Moore)’s final turn and speech on the “slippery slope” was a great moment, but his college essay illustrating what he learned and how that reflects our culture was amazing. The hood was a nice touch of visual rhetoric. The outlandish moments of comedy were handled well. The sophisticated comedic sequences helped balance those moments out. I think Dom (A\$AP Rocky) was a little under-utilized, but he was great in the scenes he was in. The soundtrack was amazing. I saw it three times in theaters. Rick Famuyiwa has made his masterpiece, despite what one of the [horrid reviewers](http://www.rogerebert.com/reviews/dope-2015) desecrating Ebert's name had to say. This movie is nothing short of dope.
 
-\[caption id="attachment\_100450" align="aligncenter" width="300"\][![dope-film](http://www.kevindublin.com/wp-content/uploads/2015/09/Dope-film-300x180.jpg){.wp-image-100450 .size-medium width="300" height="180"}](http://www.kevindublin.com/wp-content/uploads/2015/09/Dope-film.jpg) Jib (Tony Revolori), Diggy (Kiersey Clemons), and Malcolm (Shameik Moore) are Dope\[/caption\]
+<center>[![dope-film](http://www.kevindublin.com/wp-content/uploads/2015/09/Dope-film-300x180.jpg){.wp-image-100450 .size-medium width="300" height="180"}](http://www.kevindublin.com/wp-content/uploads/2015/09/Dope-film.jpg) Jib (Tony Revolori), Diggy (Kiersey Clemons), and Malcolm (Shameik Moore) are Dope.</center>
 
 **Jurassic World – 8**
 
@@ -58,13 +59,13 @@ On first viewing, I enjoyed this film, but not as much as I did the second time.
 
 **Batman v. Robin – 7.5**
 
-Teckevinally, I saw this at Wondercon and not with MoviePass, but it was in a theater and I’m going for \#100MoviesIn2015. I didn’t like *Son of Batman*. It felt really forced. The direction left a little to be desired. This film, though, may be one of the best in the DCAU, and that says a lot. The action sequences are stellar and well-placed throughout. The story’s theme centered on the relationship of trust between Bruce and Damien works well. Not to mention, the group that shows up. Yes. *Batman Versus Robin* is the best DCAU feature since *Under the Red Hood*, but not quite as good as *The Dark Knight Returns.* Because, let’s be honest. When you successfully adapt that story, it’s hard to top.
+Teckevinally, I saw this at Wondercon and not with MoviePass, but it was in a theater and I’m going for *#100MoviesIn2015*. I didn’t like *Son of Batman*. It felt really forced. The direction left a little to be desired. This film, though, may be one of the best in the DCAU, and that says a lot. The action sequences are stellar and well-placed throughout. The story’s theme centered on the relationship of trust between Bruce and Damien works well. Not to mention, the group that shows up. Yes. *Batman Versus Robin* is the best DCAU feature since *Under the Red Hood*, but not quite as good as *The Dark Knight Returns.* Because, let’s be honest. When you successfully adapt that story, it’s hard to top.
 
  
 
 **Dragonball Z: Resurrection of F – 7.5**
 
-Yes. Yes. Yes. Toriyama-san is back! Great blend of action and comedy. The theme of the conflict between Goku and Vegeta pushed even further than it was in the series. Frieza’s return was wonderful. The fight scenes—wowsers! Wait, I just realized, is this available to stream yet? I might go watch it again right now.
+Yes. Yes. Yes. Toriyama-sama is back! Great blend of action and comedy. The theme of the conflict between Goku and Vegeta pushed even further than it was in the series. Frieza’s return was wonderful. The fight scenes—wowsers! Wait, I just realized, is this available to stream yet? I might go watch it again right now.
 
  
 
@@ -72,25 +73,22 @@ Yes. Yes. Yes. Toriyama-san is back! Great blend of action and comedy. The theme
 
 This movie started out super intense. The actors were all pretty good, but Ice Cube Jr. killed it. It has a nice wedding of theme and action. The problem happened about two-thirds of the way through this unnecessarily long movie. It stopped telling a story and became fan-fiction. There was no need for Tupac to be in this movie. Snoop, maybe, but he wasn’t even utilized. It was great how they all hugged in the end. I’ll definitely re-watch the first half of this movie again. If nothing else is going on, I’ll play the other half while typing up blogs. F. Gary Gray’s directions was great, tho.
 
-** **
 
 **Ant-Man – 7**
 
 It was fun, funny, and kinda funky. This is probably the best “first” superhero movie since *Iron Man* and *Batman Begins*. Hopefully it doesn’t go the route of Stark because the second and third films in that series were terrible. The characters were all great in this film. The action was decently paced. The fight scenes were phenomenal and funny. I can’t wait for the Wasp to join.
 
  
-
 **The Visit – 7**
 
 I have a weird relationship with this movie. I watched the trailer for it and thought it was going to be M. Night’s comeback. I thought it would be brilliant. Then I saw that it was a Blum House production and lost all faith.  Watching it, I was uncomfortable. Not because of the naked grandma, she actually had a nice butt. Not because of horror-comedy, truth be told it’s one of my favorite genres when done well. Not because of the well-done framing and camera movement which was a perfect balance between “teenage handheld” and directed camera operator. I was uncomfortable because everyone was laughing so hard at the little rapping white boy. This broken non-corporeal representation of what Shyamalan and popular culture see as Blackness distilled into this cooning white kid wearing invisible blackface. Maybe I could’ve shrugged it off if his sister hadn’t called him “etkevinally-confused” or if it was played in a context other than a minstrel show. There were boycotts of *Get Hard*, but the theatrical version of that film actually treated its characters with care. It was aware it was being insensitive and tried to hit broadly, then complicate the characters by implicating the system in which the characters were in. The character of Tyler, who raps and adds “ho” to the end of every verse was created out of ignorance. Back to the film: I didn’t expect it to end how it did—SPOILER FOLLOWS. IF YOU CONTINUE TO READ, YOU WILL KNOW HOW IT ENDS. YOU SHOULD SKIP TO THE NEXT REVIEW IF YOU HAVE NOT SEEN IT—It could’ve been interesting if the grandparents succeeded in killing the kids or somehow got away. It would’ve made for an interesting *The Visit 2* with the “grandparents” doing it again with another set of kids somehow, but the audience knowing it wasn’t them the entire time. He only would’ve needed another reason for the kids not to have known the grandparents. But that could’ve been an interesting tension in the movie. The kids could’ve suspected it, and it would’ve been loaded with dramatic irony.
 
-\[caption id="attachment\_100451" align="aligncenter" width="300"\][![tyler-the-visit](http://www.kevindublin.com/wp-content/uploads/2015/09/white-boy-300x225.png){.size-medium .wp-image-100451 width="300" height="225"}](http://www.kevindublin.com/wp-content/uploads/2015/09/white-boy.png) How could you ever find this face offensive, Kevin?\[/caption\]
+<center>[![tyler-the-visit](http://www.kevindublin.com/wp-content/uploads/2015/09/white-boy-300x225.png){.size-medium .wp-image-100451 width="300" height="225"}](http://www.kevindublin.com/wp-content/uploads/2015/09/white-boy.png) *How could you ever find this face offensive, Kevin?*</center>
 
 **Spy – 7**
 
 I was expecting this movie to be terrible. I had already planned on walking out, falling asleep, or sneaking into another movie if it was too ridiculous and broad. This is probably the best film that isn’t *St. Vincent* that Melissa McCarthy has been in. The writing for Jason Statham’s character may have been over the top at times, but everyone had a great chemistry. The story was competently written and legitimately funny. Rose Byrne was definitely a standout.
 
-** **
 
 **Mad Max: Fury Road – 7**
 
@@ -137,8 +135,7 @@ I remember very little about this movie. The external world of Riley was much mo
 **Trainwreck – 5**
 
 I love Amy Schumer. She just doesn’t know how to write long-form stories yet. The story was very generic, but the bit jokes were funny. It had its moments, but this was just a less-than-generic rom-com with a gender swap. Schumer’s name did a lot to promote this movie. It has prompted me to re-watch older Apatow movies because I thought he was a better director than this. The scene which was supposed to be homage to Woody Allen’s Manhattan was ridiculously sloppy. It made me aware of how poorly shot the whole film was. I wonder if his writing hid the bad direction or if he’s just incompetent with someone else’s work.
-
-\[caption id="attachment\_100453" align="aligncenter" width="300"\][![trainwreck](http://www.kevindublin.com/wp-content/uploads/2015/09/trainwreck-300x200.jpg){.size-medium .wp-image-100453 width="300" height="200"}](http://www.kevindublin.com/wp-content/uploads/2015/09/trainwreck.jpg) Amy (Amy Schumer) and Aaron (Bill Hader) during this Trainwreck\[/caption\]
+<center>[![trainwreck](http://www.kevindublin.com/wp-content/uploads/2015/09/trainwreck-300x200.jpg){.size-medium .wp-image-100453 width="300" height="200"}](http://www.kevindublin.com/wp-content/uploads/2015/09/trainwreck.jpg) *Amy (Amy Schumer) and Aaron (Bill Hader) during this Trainwreck.*</center>
 
 **Ted 2 - 5**
 
@@ -198,7 +195,7 @@ Another example of what happens when you don’t have any conflict in a story un
 
 Wow. I like revenge stories. I really like suspenseful thrillers and mysteries. It’s too bad that this had no suspense, wasn’t at all thrilling, and the only two mysteries weren’t teased well. I liked Edgerton’s earlier film with his brother, *The Square*. He was also good as Tom in *The Great Gatsby*. This movie was sloppy. It might’ve been played better as a comedy with unreliable characters. It was melodramatic and boring. Nice reveal at the end, though. I guess that’s why others like it so much.
 
-\[caption id="attachment\_100454" align="aligncenter" width="202"\][![the-gift](http://www.kevindublin.com/wp-content/uploads/2015/09/The-Gift-Poo-202x300.png){.size-medium .wp-image-100454 width="202" height="300"}](http://www.kevindublin.com/wp-content/uploads/2015/09/The-Gift-Poo.png) Not every gift is welcome\[/caption\]
+<center>[![the-gift](http://www.kevindublin.com/wp-content/uploads/2015/09/The-Gift-Poo-202x300.png){.size-medium .wp-image-100454 width="202" height="300"}](http://www.kevindublin.com/wp-content/uploads/2015/09/The-Gift-Poo.png) *Not every gift is welcome*</center>
 
 **Tomorrowland – 1.5**
 
@@ -206,7 +203,7 @@ Directionless. Pointless. The character motivations were so constructed and phon
 
  
 
-**Aloha – \***
+**Aloha – N/A***
 
 I don’t think it would be fair for me to rate this movie. The first two sequences were so bad that I walked out of the theater. I had very little idea of what the direction of the movie was going to be or why I should care about any of the random gibberish spewing from the characters’ mouths. I bet that’s why it didn’t do well. I really like Bradley Cooper and Emma Stone. I wish they were in a better movie together.
 

@@ -8,6 +8,8 @@ A few that are available online. Check the CV for a complete list.
 Poetry
 ------
 
+"Origin," "The Colours of Her New Life" in [*Black Rootedness: 54 Poets from Africa to America*](https://elyssarpress.com/product/black-rootedness/) 
+
 "Politics" in [*The San Franciscan*](https://thesanfranciscanmagazine.com/). Issue 5. 
 
 "While Black in America," "Ghost Story," "Each Evening" in [*Syzygy, Vol 1*](https://www.blurb.com/b/10695244-syzygy-vol-1). Spring 2021.

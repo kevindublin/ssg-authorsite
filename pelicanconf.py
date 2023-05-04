@@ -106,4 +106,4 @@ GRAVATAR = 'https://s.gravatar.com/avatar/ac0a0049d7c9a1c351d0ff85c265d441?s=80'
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True

@@ -45,7 +45,7 @@ Payment available via PayPal.
 	</div>
 	<div class="column has-text-centered">
 		<div class="card is-shadowless">
-			<div class="card-image" style="padding: 0px 0px 75px 0px">
+			<div class="card-image" style="padding: 0px 0px 50px 0px">
 				<figure class="image">
 					<a href="https://kevindublin.com/pages/poetry-therapy.html"><img src="../images/poetry-therapy.png" alt="Poetry Therapy Graphic"></a>
 				</figure>

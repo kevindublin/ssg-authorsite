@@ -3,7 +3,7 @@ Slug: publications
 Summary: Recent writings and publications of Kevin Dublin.
 Lang: en
 
-A few that are available online. Check the CV for a complete list.
+Some publications. Check the CV for a complete list.
 
 Poetry
 ------

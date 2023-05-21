@@ -69,8 +69,24 @@ LOGO = 'logo.png'
 ## first name for nav menu if logo isn't provided
 FIRST_NAME = 'Kevin'
 
-## google analytics (fake code commented out)
+## google analytics
 GOOGLE_ANALYTICS = 'UA-40659889-1'
+
+## Sitemap settings
+
+SITEMAP = {
+	"format": "txt",
+	"priorities": {
+		"articles": 0.5,
+		"indexes": 0.5,
+		"pages": 0.9,
+	},
+	"changefreqs": {
+		"articles": "never",
+		"indexes": "monthly",
+		"pages": "weekly",
+	}
+}
 
 ## Twitter username for Twitter Card data
 TWITTER_USERNAME = '@parteverything'
@@ -107,3 +123,5 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+

@@ -7,26 +7,27 @@ Lang: en
 
 | Year | Date | Time | Location | Event |
 | ---- | ---- | ----- | --- | --- |
-| 2023 | Friday <br/>**MAR 24** | 7PM | Syzygy SF in San Francisco | [The Living Room Reading Series: Education](https://www.eventbrite.com/e/living-room-reading-series-salon-in-person-tickets-475899888377) |
-| 2023 | Thursday <br/>**MAR 30** | 7PM | The Sycamore in San Francisco | [*CRYBABY!* release w/ Sydney Vogl](https://www.instagram.com/p/Cp3MQ0MvTYa/?utm_source=ig_web_copy_link) |
-| 2023 | Wednesday <br/>**APR 5** | 12PM | Online | [Poetry Therapy](../pages/poetry-therapy.html) |
-| 2023 | Friday <br/>**APR 14** | 7PM | Syzygy SF | [Kitchen Table Reading Series](https://www.eventbrite.com/e/kitchen-table-2023-tickets-499335765717?aff=livingroom)
-| 2023 | Sunday <br/> **APR 16** | 6PM | Kimpton Alton Hotel SF | [National Poetry Month Celebration](https://www.eventbrite.com/e/national-poetry-month-celebration-reading-tickets-579478895977?aff=kd) |
+| 2023 | Saturday <br/>**May 6** | 2PM | Syzygy SF in San Francisco | [GUMAMELA, JAMAICA, SORREL](https://www.instagram.com/p/CrwF2NgvRRH/) |
+| 2023 | Friday <br/>**MAY 12** | 7PM | Hungry Cafe | [Kitchen Table Reading Series](https://www.eventbrite.com/e/kitchen-table-2023-tickets-499335765717?aff=livingroom)
 | 2023 | Thursday <br/> **MAY 25** | 6PM | Online | [MoAD Lit Open Mic Feature](https://www.moadsf.org/event/open-mic-night-featuring-kevin-dublin) |
-
-
+| 2023 | Friday <br/>**May 26** | 7PM | Syzygy SF in San Francisco | [The Living Room Reading Series: Travel](https://www.eventbrite.com/e/living-room-reading-series-salon-in-person-tickets-475899888377) |
+| 2023 | Wednesday <br/>**MAY 31** | 7:30PM | Pegasus Books in Berkeley| [Lyrics & Dirges Series](https://www.pegasusbookstore.com/event/lyricsdirges_may_2023)
+| 2023 | Tuesday <br/>**JUN 13** | 7:30PM | Make-Out Room in SF | [Happy Endings](https://www.instagram.com/happyendings.show/)
 
 ## Upcoming Workshops
 
 | Year | Date | Time | Location | Workshop |
 | ---- | --- | --- | --- | --- |
-| 2023 | Saturday <br/>**APR 8** | 12PM | Syzygy SF in San Francisco | [Craft of Poetry Writing Workshop](https://thelivingroomsf.com/crafting-poetry-practice-class/) |
+| 2023 | Saturday <br/>**JUN 24** | 12PM | Syzygy SF in San Francisco | [Craft of Creative Writing Workshop](https://thelivingroomsf.com/creative-writing-craft-class/) |
 
 
 ## Past Events
 
 | Year | Date | Time | Location | Event |
 | --- | --- | --- | --- | --- |
+| 2023 | Sunday <br/> **APR 16** | 6PM | Kimpton Alton Hotel SF | [National Poetry Month Celebration](https://thelivingroomsf.com/events/2023-04-npm.html) |
+| 2023 | Wednesday <br/>**APR 5** | 12PM | Online | [Poetry Therapy](../pages/poetry-therapy.html) |
+| 2023 | Thursday <br/>**MAR 30** | 7PM | The Sycamore in San Francisco | [*CRYBABY!* release w/ Sydney Vogl](https://www.instagram.com/p/Cp3MQ0MvTYa/?utm_source=ig_web_copy_link) |
 | 2023 | Wednesday <br/> **FEB 28** | 12AM | Online | [Tupelo Press 30/30 Fundraiser](https://tupelopress.networkforgood.com/projects/178701-kevin-dublin-s-fundraiser) |
 | 2022 | Friday <br/>**DEC 2** | 10:00AM | Golden Gate Park Rose Garden | [Poetry Therapy](../pages/poetry-therapy.html) |
 | 2022 | Tuesday <br/> **NOV 29** | 6PM | Online | [Nomadic Press Emergency Fund Fundraiser](https://fb.me/e/25lVF9hrL) |
